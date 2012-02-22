@@ -22,6 +22,7 @@ import com.google.gwt.user.client.ui.VerticalPanel;
  */
 //yo
 //yo
+//Halloj
 public class Forumtest implements EntryPoint {
 	/**
 	 * The message displayed to the user when the server cannot be reached or
