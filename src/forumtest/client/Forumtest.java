@@ -20,6 +20,7 @@ import com.google.gwt.user.client.ui.VerticalPanel;
 /**
  * Entry point classes define <code>onModuleLoad()</code>.
  */
+//yo
 public class Forumtest implements EntryPoint {
 	/**
 	 * The message displayed to the user when the server cannot be reached or

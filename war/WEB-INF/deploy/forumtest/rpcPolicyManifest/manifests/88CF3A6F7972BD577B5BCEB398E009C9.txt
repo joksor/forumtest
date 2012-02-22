@@ -1,0 +1,2 @@
+serviceClass: forumtest.client.GreetingService
+path: AB6168D5BAD998FD95B7389CB25F21AB.gwt.rpc
