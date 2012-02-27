@@ -1,0 +1,2 @@
+serviceClass: forumtest.client.LoginService
+path: 9D34108FDA97C3EBAD6F9D319224CB9F.gwt.rpc

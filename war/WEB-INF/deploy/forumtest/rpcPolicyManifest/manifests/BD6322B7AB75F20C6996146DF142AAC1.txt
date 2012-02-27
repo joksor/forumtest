@@ -1,0 +1,2 @@
+serviceClass: forumtest.client.PostService
+path: 340DC7DDA855F661B87F92CD98B9098D.gwt.rpc

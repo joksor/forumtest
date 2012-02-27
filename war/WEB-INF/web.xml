@@ -16,6 +16,28 @@
     <url-pattern>/forumtest/greet</url-pattern>
   </servlet-mapping>
   
+    <servlet>
+    <servlet-name>postServiceImpl</servlet-name>
+    <servlet-class>forumtest.server.PostServiceImpl</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>postServiceImpl</servlet-name>
+    <url-pattern>/forumtest/posts</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+    <servlet-name>loginServiceImpl</servlet-name>
+    <servlet-class>forumtest.server.LoginServiceImpl</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>loginServiceImpl</servlet-name>
+    <url-pattern>/forumtest/login</url-pattern>
+  </servlet-mapping>
+  
+  
+  
   <!-- Default page to serve -->
   <welcome-file-list>
     <welcome-file>Forumtest.html</welcome-file>
